@@ -28,8 +28,8 @@ The **AI-Powered Medical Diagnosis System** is a machine learning-based applicat
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
- git clone 
- cd 
+ git clone https://github.com/KotiSaiSankar/Medical-Disease-Prediction-System.git
+ cd AI-Medical-Diagnosis
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
