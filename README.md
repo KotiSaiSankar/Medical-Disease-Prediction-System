@@ -123,7 +123,5 @@ If you like this project, please **star** ⭐ the repository and share it with o
 ---
 
 ### 📩 Contact
-For queries or suggestions, reach out via GitHub Issues or email 📧.
-
-🚀 Happy Coding & Stay Healthy! 🏥
+For queries or suggestions, reach out via GitHub Issues or email.
 
